@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Aithe",
+    "tmdbId": 311777,
+    "year": 2003,
+    "genre": "Adventure",
+    "hero": "Mohit Chadda",
+    "heroImage": "",
+    "director": "Chandra Sekhar Yeleti",
+    "directorImage": "https://image.tmdb.org/t/p/w500/2N4mhSqWaJ3ztTDvb0c9xRZM0fb.jpg",
+    "musicDirector": "Kalyani Malik",
+    "posterImage": "https://image.tmdb.org/t/p/w500/lgPgLUGdiJL2OzCQ9bXWr9B1Wvp.jpg",
+    "missingFields": [
+      "heroImage"
+    ]
+  },
+  {
+    "title": "Pelli Choopulu",
+    "tmdbId": 1273797,
+    "year": 2016,
+    "genre": "Romance",
+    "hero": "Vijay Deverakonda",
+    "heroImage": "https://image.tmdb.org/t/p/w500/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
+    "director": "Tharun Bhascker",
+    "directorImage": "",
+    "musicDirector": "Vivek Sagar",
+    "posterImage": "",
+    "missingFields": [
+      "directorImage"
+    ]
+  },
+  {
+    "title": "Kshanam",
+    "tmdbId": 386427,
+    "year": 2016,
+    "genre": "Crime",
+    "hero": "Adivi Sesh",
+    "heroImage": "https://image.tmdb.org/t/p/w500/vWvU1qlpGGrCsdox0pAJ6Gns4Bp.jpg",
+    "director": "Ravikanth Perepu",
+    "directorImage": "",
+    "musicDirector": "Sricharan Pakala",
+    "posterImage": "https://image.tmdb.org/t/p/w500/j3ioiA4N4cQ0L5ALZuRpsZPP2eD.jpg",
+    "missingFields": [
+      "directorImage"
+    ]
+  },
+  {
+    "title": "Mathu Vadalara",
+    "tmdbId": 657853,
+    "year": 2019,
+    "genre": "Crime",
+    "hero": "Sri Simha",
+    "heroImage": "https://image.tmdb.org/t/p/w500/muzsjXflMjLQUAVhoZxvlepgeKZ.jpg",
+    "director": "Ritesh Rana",
+    "directorImage": "",
+    "musicDirector": "Kaala Bhairava",
+    "posterImage": "https://image.tmdb.org/t/p/w500/lo0ALsfiSv5sxNBhCNh35AD1p0x.jpg",
+    "missingFields": [
+      "directorImage"
+    ]
+  },
+  {
+    "title": "Uppena",
+    "tmdbId": 606718,
+    "year": 2021,
+    "genre": "Romance",
+    "hero": "Panja Vaisshnav Tej",
+    "heroImage": "https://image.tmdb.org/t/p/w500/6CNHzqvSc4cZSLmZkFpZFIpCcLk.jpg",
+    "director": "Buchi Babu Sana",
+    "directorImage": "",
+    "musicDirector": "Devi Sri Prasad",
+    "posterImage": "https://image.tmdb.org/t/p/w500/qO5ofw2mTJgDEguKBadZ7HyOyn.jpg",
+    "missingFields": [
+      "directorImage"
+    ]
+  },
+  {
+    "title": "Hi Nanna",
+    "tmdbId": 1068452,
+    "year": 2023,
+    "genre": "Drama",
+    "hero": "Nani",
+    "heroImage": "https://image.tmdb.org/t/p/w500/jfOH4sUWs3VXuGUlo0VLMYNRBQ4.jpg",
+    "director": "Shouryuv",
+    "directorImage": "",
+    "musicDirector": "Hesham Abdul Wahab",
+    "posterImage": "https://image.tmdb.org/t/p/w500/hhMLtq9m1aK0dpY9Wcq26XeDH2z.jpg",
+    "missingFields": [
+      "directorImage"
+    ]
+  },
+  {
+    "title": "(MAD)²",
+    "tmdbId": 1359490,
+    "year": 2025,
+    "genre": "Drama",
+    "hero": "Sangeeth Shobhan",
+    "heroImage": "https://image.tmdb.org/t/p/w500/7Vox31bH7XmgPNJzMKGa4uGyjW8.jpg",
+    "director": "Kalyan Shankar",
+    "directorImage": "",
+    "musicDirector": "S. Thaman",
+    "posterImage": "https://image.tmdb.org/t/p/w500/cYGNd3oMRYsvM9gW4i0bzAclOUb.jpg",
+    "missingFields": [
+      "directorImage"
+    ]
+  },
+  {
+    "title": "Virupaksha",
+    "tmdbId": 1034590,
+    "year": 2023,
+    "genre": "Horror",
+    "hero": "Sai Durgha Tej",
+    "heroImage": "https://image.tmdb.org/t/p/w500/lX3rI99DmyIXn8yaUW2i0wA1X4Q.jpg",
+    "director": "Karthik Varma Dandu",
+    "directorImage": "",
+    "musicDirector": "B. Ajaneesh Loknath",
+    "posterImage": "https://image.tmdb.org/t/p/w500/fqMn4h9ctOyumII2nXDnm5mRTxQ.jpg",
+    "missingFields": [
+      "directorImage"
+    ]
+  },
+  {
+    "title": "Karthikeya 2",
+    "tmdbId": 894762,
+    "year": 2022,
+    "genre": "Mystery",
+    "hero": "Nikhil Siddhartha",
+    "heroImage": "https://image.tmdb.org/t/p/w500/rDWBNCcHMNRf7YDPi9qMDcdm2X3.jpg",
+    "director": "Chandoo Mondeti",
+    "directorImage": "",
+    "musicDirector": "Kaala Bhairava",
+    "posterImage": "https://image.tmdb.org/t/p/w500/fKKoQndNfbDOLfYM1Zogt7miGF1.jpg",
+    "missingFields": [
+      "directorImage"
+    ]
+  },
+  {
+    "title": "DJ Tillu",
+    "tmdbId": 937036,
+    "year": 2022,
+    "genre": "Romance",
+    "hero": "Siddhu Jonnalagadda",
+    "heroImage": "https://image.tmdb.org/t/p/w500/6B8PzdF7BkyABUoWJZZgn8IuZkn.jpg",
+    "director": "Vimal Krishna",
+    "directorImage": "",
+    "musicDirector": "Sricharan Pakala",
+    "posterImage": "https://image.tmdb.org/t/p/w500/2XKg3VhpFDXdAktwKvFMSuIneE3.jpg",
+    "missingFields": [
+      "directorImage"
+    ]
+  }
+]
