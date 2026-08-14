@@ -8,6 +8,12 @@
 
 ---
 
+---
+
+## 📸 Preview
+
+![TollyRiddl Preview](./public/screenshots/tollyriddl-preview.png)
+
 ## 🎮 About
 
 TollyRiddl is an interactive Telugu movie guessing game built with React and Vite.
