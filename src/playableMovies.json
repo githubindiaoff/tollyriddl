@@ -264,6 +264,18 @@
     "posterImage": "https://image.tmdb.org/t/p/w500/tIUBifudyRCKhF1utslaDoDRteW.jpg"
   },
   {
+    "title": "Pelli Choopulu",
+    "tmdbId": 1273797,
+    "year": 2016,
+    "genre": "Romance",
+    "hero": "Vijay Deverakonda",
+    "heroImage": "https://image.tmdb.org/t/p/w500/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg",
+    "director": "Tharun Bhascker",
+    "directorImage": "https://image.tmdb.org/t/p/w500/fNG54JOFz3gZfgu1E6tCI0cg3jE.jpg",
+    "musicDirector": "Vivek Sagar",
+    "posterImage": ""
+  },
+  {
     "title": "Arjun Reddy",
     "tmdbId": 473234,
     "year": 2017,

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import movies from "./finalMovies.json";
+import movies from "./playableMovies.json";
 import "./App.css";
 
 function App() {
