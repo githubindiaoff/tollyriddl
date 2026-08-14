@@ -1,16 +1,115 @@
-# React + Vite
+# 🎬 TollyRiddl
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A Telugu movie guessing game where players identify a movie using progressive clues.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** https://tollyriddl-five.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+💻 **GitHub:** https://github.com/githubindiaoff/tollyriddl
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎮 About
 
-## Expanding the ESLint configuration
+TollyRiddl is an interactive Telugu movie guessing game built with React and Vite.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Players are given a series of clues about a mystery movie and must identify it within a limited number of attempts.
+
+The game currently uses a dataset of 50 Telugu movies.
+
+---
+
+## ✨ Features
+
+- 🎲 Random mystery movie selection
+- 👤 Hero clue
+- 🎭 Genre clue
+- 🎬 Director clue with image
+- 🎵 Music director clue
+- 📅 Release year clue
+- 🔍 Movie search and autocomplete
+- 🎯 Guess history
+- ❤️ Limited attempts
+- 🎬 New Game functionality
+- 📱 Responsive interface
+- 🌐 Publicly deployed web application
+
+---
+
+## 🕹️ How to Play
+
+1. Open the game.
+2. A mystery Telugu movie is selected.
+3. Use the available clues to identify the movie.
+4. Search for your guess using the search box.
+5. Submit your guess.
+6. Wrong guesses reveal additional clues.
+7. Find the movie before running out of attempts!
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React
+- JavaScript
+- Vite
+- CSS
+
+### Data
+
+- JSON-based movie dataset
+- Movie/person metadata
+- Local image assets
+
+### Deployment
+
+- GitHub
+- Vercel
+
+---
+
+## 🧠 Key Concepts Used
+
+This project helped me practice:
+
+- React `useState`
+- Component rendering
+- Conditional rendering
+- Array methods such as `find()` and `filter()`
+- Random selection
+- Search/autocomplete logic
+- State management
+- Event handling
+- Dynamic UI updates
+- Production builds
+- Git and GitHub
+- Web deployment
+
+---
+
+## 📂 Project Structure
+
+```text
+tollyriddl/
+│
+├── public/
+│
+├── scripts/
+│   ├── buildMovieDataset.mjs
+│   ├── fillMissingImages.mjs
+│   ├── repairMovieDataset.mjs
+│   └── validateMovieDataset.mjs
+│
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── finalMovies.json
+│   ├── generatedMovies.json
+│   ├── movieTitles.js
+│   └── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
